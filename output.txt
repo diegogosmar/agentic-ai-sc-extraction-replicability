@@ -1,0 +1,77 @@
+[
+  {
+    "Quantity": 22,
+    "UnitPrice": "€11,850.00",
+    "TotalPrice": "€260,700.00"
+  },
+  {
+    "Quantity": 156,
+    "UnitPrice": "€642.50",
+    "TotalPrice": "€100,150.00"
+  },
+  {
+    "Quantity": 32,
+    "UnitPrice": "€4,620.00",
+    "TotalPrice": "€147,840.00"
+  },
+  {
+    "Quantity": 11,
+    "UnitPrice": "€9,340.00",
+    "TotalPrice": "€102,740.00"
+  },
+  {
+    "Quantity": 18,
+    "UnitPrice": "€7,280.00",
+    "TotalPrice": "€131,040.00"
+  },
+  {
+    "Quantity": 9,
+    "UnitPrice": "€32,750.00",
+    "TotalPrice": "€294,750.00"
+  },
+  {
+    "Quantity": 24,
+    "UnitPrice": "€5,640.00",
+    "TotalPrice": "€135,360.00"
+  },
+  {
+    "Quantity": 48,
+    "UnitPrice": "€2,180.00",
+    "TotalPrice": "€104,640.00"
+  },
+  {
+    "Quantity": 28,
+    "UnitPrice": "€3,420.00",
+    "TotalPrice": "€95,760.00"
+  },
+  {
+    "Quantity": 19,
+    "UnitPrice": "€8,850.00",
+    "TotalPrice": "€168,150.00"
+  },
+  {
+    "Quantity": 14,
+    "UnitPrice": "€8,920.00",
+    "TotalPrice": "€124,880.00"
+  },
+  {
+    "Quantity": 220,
+    "UnitPrice": "€185.00 per hour",
+    "TotalPrice": "€40,700.00"
+  },
+  {
+    "Quantity": 160,
+    "UnitPrice": "€210.00 per hour",
+    "TotalPrice": "€33,600.00"
+  },
+  {
+    "Quantity": 85,
+    "UnitPrice": "€225.00 per hour",
+    "TotalPrice": "€19,125.00"
+  },
+  {
+    "Quantity": 120,
+    "UnitPrice": "€195.00 per hour",
+    "TotalPrice": "€23,400.00"
+  }
+]

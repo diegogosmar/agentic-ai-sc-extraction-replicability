@@ -1,0 +1,20 @@
+From the attached document please extract the indicated information and return them in JSON format.
+Each group of information must refer to each "item" present in the document.
+
+During processing, use a structured reasoning methodology ("thinking") based on logical step by step steps, to ensure accuracy in data extraction and consistency between numerical values.
+However, the reasoning content must not be reported in the final output.
+
+The information to extract for each item are:
+
+Quantity
+Unit price
+Total price
+
+The output must be a JSON array containing one object for each item, with the fields:
+
+json
+{
+ "Quantity": <numeric value>,
+ "UnitPrice": <numeric value or string with currency>,
+ "TotalPrice": <numeric value or string with currency>
+}
